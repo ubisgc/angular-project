@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Danmark",
+      "hovedstad": "København"
+    },
+    {
+        "name": "Sverig",
+        "hovedstad": "Stockholm"
+    },
+    {
+        "name": "England",
+        "hovedstad": "London"
+    }
+  ]
